@@ -1,2 +1,15 @@
-# Rock-Paper-Scissors-Game
-C++ project for a Rock-Paper-Scissors game, where the player competes against the computer in a predetermined number of rounds. The game relies on the computer's random selection, and the number of wins for both the player and the computer is calculated to determine the final winner.
+# Rock Paper Scissors Game 🎮  
+
+This is a **console-based** Rock, Paper, Scissors game written in **C++**.  
+The player competes against the computer, and the game supports multiple rounds.  
+
+## Features  
+✅ Supports up to 10 rounds per game  
+✅ Randomized computer choices  
+✅ Keeps track of player and computer wins  
+✅ Displays game results with winner  
+
+## How to Run  
+1. Compile the program using g++:  
+   ```bash
+   g++ -o game Rock_Paper_Scissor.cpp
